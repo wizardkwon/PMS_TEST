@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<context>
+	<Resource 
+	name="PMS" 
+	type="javax.sql.DataSource" 
+	auth="Container" 
+	url="jdbc:mysql://database.cb0g0vjhrxhg.ap-northeast-2.rds.amazonaws.com:3306/PMS?serverTimezone=UTC" 
+	username="admin" 
+	password="5gvwTdwZZJazctB9" 
+	driverClassName="com.mysql.cj.jdbc.Driver"></Resource>
+</context>
